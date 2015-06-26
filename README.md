@@ -1,4 +1,4 @@
-ig-design-tools
+Redbubble Design tools
 ===============
 
-Design Tools for Instagram
+Mass content population for different product contexts @ Redbubble.
